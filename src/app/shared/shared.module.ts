@@ -46,7 +46,8 @@ import { PieComponent } from './widgets/pie/pie.component';
     FooterComponent,
     SidebarComponent,
     AreaComponent,
-    CardComponent
+    CardComponent,
+    PieComponent
   ]
 })
 export class SharedModule { }
